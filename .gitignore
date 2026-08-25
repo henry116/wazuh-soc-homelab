@@ -1,0 +1,36 @@
+# Virtual machines and disk images
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+
+# Credentials and secrets
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+credentials*
+secrets*
+passwords*
+
+# Logs and packet captures
+*.log
+*.evtx
+*.pcap
+*.pcapng
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
